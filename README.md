@@ -1,1 +1,1 @@
-# projects in python
+# python trainings example
